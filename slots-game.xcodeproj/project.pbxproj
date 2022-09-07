@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2B019A628C8FEBD007524A1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B019A528C8FEBD007524A1 /* CardView.swift */; };
 		A2EF115128C8868000B2BF93 /* slots_gameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EF115028C8868000B2BF93 /* slots_gameApp.swift */; };
 		A2EF115328C8868000B2BF93 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EF115228C8868000B2BF93 /* ContentView.swift */; };
 		A2EF115528C8868200B2BF93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2EF115428C8868200B2BF93 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2B019A528C8FEBD007524A1 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		A2EF114D28C8868000B2BF93 /* slots-game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "slots-game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2EF115028C8868000B2BF93 /* slots_gameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slots_gameApp.swift; sourceTree = "<group>"; };
 		A2EF115228C8868000B2BF93 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				A2EF115228C8868000B2BF93 /* ContentView.swift */,
 				A2EF115428C8868200B2BF93 /* Assets.xcassets */,
 				A2EF115628C8868200B2BF93 /* Preview Content */,
+				A2B019A528C8FEBD007524A1 /* CardView.swift */,
 			);
 			path = "slots-game";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2EF115328C8868000B2BF93 /* ContentView.swift in Sources */,
+				A2B019A628C8FEBD007524A1 /* CardView.swift in Sources */,
 				A2EF115128C8868000B2BF93 /* slots_gameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
